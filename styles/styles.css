@@ -1,0 +1,46 @@
+body{
+    
+    background-color: #030301;
+    font-size: 30px;
+    color:#FFFFF3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lista-mercado{
+    color: #FF4365;
+    border:2px solid #FF4365;
+
+}
+
+h2{
+    color: #00D9C0;
+    border: 3px solid aquamarine;
+    text-align: center;
+}
+
+h1{
+    color: #B7AD99;
+    text-align: center;
+}
+li, p{
+    font-size: 0.7em;
+}
+p{
+   text-align: justify; 
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+.pieces{
+    margin: 30px 10px;
+    border: 6px dotted #FF4365;
+    float: left;
+    width: 500px;
+    padding: 40px;
+}
+ .main{
+    width: 800px;
+    margin: auto;
+ }
