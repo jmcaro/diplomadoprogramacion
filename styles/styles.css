@@ -5,6 +5,10 @@ body{
     color:#FFFFF3;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
 
 .lista-mercado{
     color: #FF4365;
